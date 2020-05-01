@@ -83,4 +83,22 @@ nav ul li a{
 
 
 }
+.text-container button{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 0,15px;
+}
+.hire-btn{
+    border: 1px solid;
+
+}
+.down-rm{
+    border: 1px solid;
+    
+}
+
 
