@@ -76,4 +76,11 @@ nav ul li a{
     top: 42%;
     
 }
+@media only screen and (max-height:600px){
+    .text-container{
+      display: none;
+    }
+
+
+}
 
