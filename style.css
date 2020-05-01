@@ -42,3 +42,10 @@ nav ul li a{
     color: #505050;
     font-weight: 700;
 }
+#logo{
+    height: 60px;
+}
+.active{
+    font-weight: bold;
+    color: #2d2a2a;
+}
