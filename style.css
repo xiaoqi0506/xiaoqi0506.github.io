@@ -5,3 +5,18 @@ body{
     margin: 0px;
     padding: 0px;
 }
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+section{
+    width: 100%;
+    height: 95vh;
+    background-image: url("image/flowerring.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    position: relative;
+}
